@@ -1,4 +1,4 @@
-# Google-Drive-Clone
+## Google-Drive-Clone
 This is just a clone of google drive made using ![HTML](https://img.shields.io/badge/HTML-blue) and ![CSS](https://img.shields.io/badge/CSS-blue) which i learnt in a web development bootcamp organised by DevTown.
 
 ## Deployment
